@@ -1,0 +1,32 @@
+opam-version: "2.0"
+added: [
+  "doc/ppx_let" {"D"}
+  "doc/ppx_let/CHANGES.md" {"F:S630T1727733264.59"}
+  "doc/ppx_let/LICENSE.md" {"F:S1117T1727733264.59"}
+  "doc/ppx_let/README.md" {"F:S11510T1727733264.59"}
+  "lib/ppx_let" {"D"}
+  "lib/ppx_let/META" {"F:S821T1727733264.53"}
+  "lib/ppx_let/dune-package" {"F:S1721T1727733264.53"}
+  "lib/ppx_let/expander/ppx_let_expander.a" {"F:S106438T1727733264.53"}
+  "lib/ppx_let/expander/ppx_let_expander.cma" {"F:S200873T1727733264.53"}
+  "lib/ppx_let/expander/ppx_let_expander.cmi" {"F:S6247T1727733264.53"}
+  "lib/ppx_let/expander/ppx_let_expander.cmt" {"F:S359731T1727733264.53"}
+  "lib/ppx_let/expander/ppx_let_expander.cmti" {"F:S21128T1727733264.53"}
+  "lib/ppx_let/expander/ppx_let_expander.cmx" {"F:S30356T1727733264.53"}
+  "lib/ppx_let/expander/ppx_let_expander.cmxa" {"F:S7588T1727733264.53"}
+  "lib/ppx_let/expander/ppx_let_expander.cmxs" {"F:S134856T1727733264.53"}
+  "lib/ppx_let/expander/ppx_let_expander.ml" {"F:S20204T1727733264.53"}
+  "lib/ppx_let/expander/ppx_let_expander.mli" {"F:S1734T1727733264.53"}
+  "lib/ppx_let/opam" {"F:S693T1727733264.53"}
+  "lib/ppx_let/ppx.exe" {"F:S20553016T1727733264.59"}
+  "lib/ppx_let/ppx_let.a" {"F:S9272T1727733264.53"}
+  "lib/ppx_let/ppx_let.cma" {"F:S9081T1727733264.53"}
+  "lib/ppx_let/ppx_let.cmi" {"F:S187T1727733264.53"}
+  "lib/ppx_let/ppx_let.cmt" {"F:S19088T1727733264.53"}
+  "lib/ppx_let/ppx_let.cmti" {"F:S3150T1727733264.53"}
+  "lib/ppx_let/ppx_let.cmx" {"F:S3902T1727733264.53"}
+  "lib/ppx_let/ppx_let.cmxa" {"F:S3867T1727733264.53"}
+  "lib/ppx_let/ppx_let.cmxs" {"F:S27408T1727733264.59"}
+  "lib/ppx_let/ppx_let.ml" {"F:S889T1727733264.53"}
+  "lib/ppx_let/ppx_let.mli" {"F:S0T1727733264.53"}
+]

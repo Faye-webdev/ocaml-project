@@ -1,0 +1,20 @@
+opam-version: "2.0"
+added: [
+  "doc/ppx_fixed_literal" {"D"}
+  "doc/ppx_fixed_literal/LICENSE.md" {"F:S1117T1727733262.44"}
+  "lib/ppx_fixed_literal" {"D"}
+  "lib/ppx_fixed_literal/META" {"F:S496T1727733262.41"}
+  "lib/ppx_fixed_literal/dune-package" {"F:S996T1727733262.41"}
+  "lib/ppx_fixed_literal/opam" {"F:S767T1727733262.41"}
+  "lib/ppx_fixed_literal/ppx.exe" {"F:S20451816T1727733262.44"}
+  "lib/ppx_fixed_literal/ppx_fixed_literal.a" {"F:S13368T1727733262.41"}
+  "lib/ppx_fixed_literal/ppx_fixed_literal.cma" {"F:S16586T1727733262.41"}
+  "lib/ppx_fixed_literal/ppx_fixed_literal.cmi" {"F:S207T1727733262.41"}
+  "lib/ppx_fixed_literal/ppx_fixed_literal.cmt" {"F:S38840T1727733262.41"}
+  "lib/ppx_fixed_literal/ppx_fixed_literal.cmti" {"F:S3768T1727733262.41"}
+  "lib/ppx_fixed_literal/ppx_fixed_literal.cmx" {"F:S7469T1727733262.41"}
+  "lib/ppx_fixed_literal/ppx_fixed_literal.cmxa" {"F:S7427T1727733262.41"}
+  "lib/ppx_fixed_literal/ppx_fixed_literal.cmxs" {"F:S34032T1727733262.44"}
+  "lib/ppx_fixed_literal/ppx_fixed_literal.ml" {"F:S1928T1727733262.41"}
+  "lib/ppx_fixed_literal/ppx_fixed_literal.mli" {"F:S12T1727733262.41"}
+]

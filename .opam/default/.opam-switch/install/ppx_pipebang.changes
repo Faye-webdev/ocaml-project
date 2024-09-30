@@ -1,0 +1,22 @@
+opam-version: "2.0"
+added: [
+  "doc/ppx_pipebang" {"D"}
+  "doc/ppx_pipebang/CHANGES.md" {"F:S147T1727733266.25"}
+  "doc/ppx_pipebang/LICENSE.md" {"F:S1117T1727733266.25"}
+  "doc/ppx_pipebang/README.md" {"F:S420T1727733266.25"}
+  "lib/ppx_pipebang" {"D"}
+  "lib/ppx_pipebang/META" {"F:S471T1727733266.23"}
+  "lib/ppx_pipebang/dune-package" {"F:S897T1727733266.23"}
+  "lib/ppx_pipebang/opam" {"F:S682T1727733266.23"}
+  "lib/ppx_pipebang/ppx.exe" {"F:S18763488T1727733266.25"}
+  "lib/ppx_pipebang/ppx_pipebang.a" {"F:S7398T1727733266.23"}
+  "lib/ppx_pipebang/ppx_pipebang.cma" {"F:S10336T1727733266.23"}
+  "lib/ppx_pipebang/ppx_pipebang.cmi" {"F:S197T1727733266.23"}
+  "lib/ppx_pipebang/ppx_pipebang.cmt" {"F:S21875T1727733266.23"}
+  "lib/ppx_pipebang/ppx_pipebang.cmti" {"F:S3495T1727733266.23"}
+  "lib/ppx_pipebang/ppx_pipebang.cmx" {"F:S3851T1727733266.23"}
+  "lib/ppx_pipebang/ppx_pipebang.cmxa" {"F:S3821T1727733266.23"}
+  "lib/ppx_pipebang/ppx_pipebang.cmxs" {"F:S22432T1727733266.25"}
+  "lib/ppx_pipebang/ppx_pipebang.ml" {"F:S1093T1727733266.23"}
+  "lib/ppx_pipebang/ppx_pipebang.mli" {"F:S0T1727733266.23"}
+]

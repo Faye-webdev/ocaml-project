@@ -1,0 +1,35 @@
+opam-version: "2.0"
+added: [
+  "doc/ppx_optcomp" {"D"}
+  "doc/ppx_optcomp/CHANGES.md" {"F:S990T1727733263.08"}
+  "doc/ppx_optcomp/LICENSE.md" {"F:S1117T1727733263.08"}
+  "doc/ppx_optcomp/README.md" {"F:S4673T1727733263.08"}
+  "lib/ppx_optcomp" {"D"}
+  "lib/ppx_optcomp/META" {"F:S567T1727733263.08"}
+  "lib/ppx_optcomp/cparser.ml" {"F:S3850T1727733263.08"}
+  "lib/ppx_optcomp/dune-package" {"F:S1848T1727733263.08"}
+  "lib/ppx_optcomp/interpreter.ml" {"F:S15220T1727733263.08"}
+  "lib/ppx_optcomp/opam" {"F:S709T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp.a" {"F:S204254T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp.cma" {"F:S270395T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp.cmi" {"F:S26031T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp.cmt" {"F:S277288T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp.cmx" {"F:S11590T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp.cmxa" {"F:S31568T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp.cmxs" {"F:S230384T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp.ml" {"F:S16612T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp__.cmi" {"F:S422T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp__.cmt" {"F:S3364T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp__.cmx" {"F:S178T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp__.ml" {"F:S261T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp__Cparser.cmi" {"F:S8318T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp__Cparser.cmt" {"F:S59411T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp__Cparser.cmx" {"F:S7790T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp__Interpreter.cmi" {"F:S14501T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp__Interpreter.cmt" {"F:S256291T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp__Interpreter.cmx" {"F:S11721T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp__Token.cmi" {"F:S8430T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp__Token.cmt" {"F:S34186T1727733263.08"}
+  "lib/ppx_optcomp/ppx_optcomp__Token.cmx" {"F:S7230T1727733263.08"}
+  "lib/ppx_optcomp/token.ml" {"F:S1843T1727733263.08"}
+]

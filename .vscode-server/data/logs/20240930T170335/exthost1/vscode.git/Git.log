@@ -1,0 +1,39 @@
+2024-09-30 17:03:40.644 [info] [main] Log level: Info
+2024-09-30 17:03:40.644 [info] [main] Validating found git in: "git"
+2024-09-30 17:03:40.644 [info] [main] Using git "2.34.1" from "git"
+2024-09-30 17:03:40.644 [info] [Model][doInitialScan] Initial repository scan started
+2024-09-30 17:03:40.644 [info] > git rev-parse --show-toplevel [2ms]
+2024-09-30 17:03:40.644 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-30 17:03:40.645 [info] > git rev-parse --show-toplevel [3ms]
+2024-09-30 17:03:40.645 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-30 17:03:40.647 [info] > git rev-parse --show-toplevel [1ms]
+2024-09-30 17:03:40.647 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-30 17:03:40.650 [info] > git rev-parse --show-toplevel [1ms]
+2024-09-30 17:03:40.650 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-30 17:03:40.652 [info] > git rev-parse --show-toplevel [0ms]
+2024-09-30 17:03:40.652 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-30 17:03:40.655 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-09-30 17:04:06.927 [info] > git rev-parse --show-toplevel [2ms]
+2024-09-30 17:04:06.927 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-09-30 18:13:29.179 [info] > git rev-parse --show-toplevel [2ms]
+2024-09-30 18:13:29.185 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-09-30 18:13:29.208 [info] [Model][openRepository] Opened repository: /home/efayemi16
+2024-09-30 18:13:29.222 [info] [Git][getRemotes] No remotes found in the git config file
+2024-09-30 18:13:29.224 [info] > git config --get commit.template [9ms]
+2024-09-30 18:13:29.225 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-09-30 18:13:29.225 [warning] [Git][getBranch] No such branch: master
+2024-09-30 18:13:29.557 [info] > git status -z -uall [327ms] (cancelled)
+2024-09-30 18:13:29.557 [info] > git show --textconv :main.ml [7ms]
+2024-09-30 18:13:29.559 [info] > git ls-files --stage -- /home/efayemi16/main.ml [2ms]
+2024-09-30 18:13:29.779 [info] > git check-ignore -v -z --stdin [7ms]
+2024-09-30 18:13:35.981 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1207ms]
+2024-09-30 18:13:35.981 [warning] [Git][getBranch] No such branch: master
+2024-09-30 18:13:36.122 [info] > git config --get commit.template [141ms]
+2024-09-30 18:13:36.128 [info] [Git][getRemotes] No remotes found in the git config file
+2024-09-30 18:13:36.129 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-09-30 18:13:36.129 [warning] [Git][getBranch] No such branch: master
+2024-09-30 18:13:36.350 [info] > git status -z -uall [218ms] (cancelled)
+2024-09-30 18:13:36.350 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [57ms]
+2024-09-30 18:13:36.350 [warning] [Git][getBranch] No such branch: master
+2024-09-30 18:15:14.886 [info] > git check-ignore -v -z --stdin [2ms]
+2024-09-30 18:17:23.997 [info] > git check-ignore -v -z --stdin [3ms]

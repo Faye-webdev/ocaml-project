@@ -1,0 +1,17 @@
+2024-09-30 17:03:35.196 [info] 
+
+
+
+
+2024-09-30 17:03:35.196 [info] Extension host agent started.
+2024-09-30 17:03:35.211 [info] Started initializing default profile extensions in extensions installation folder. file:///home/efayemi16/.vscode-server/extensions
+2024-09-30 17:03:35.222 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/efayemi16/.vscode-server/extensions
+2024-09-30 17:03:35.313 [info] [127.0.0.1][0f32a531][ManagementConnection] New connection established.
+2024-09-30 17:03:35.555 [info] [127.0.0.1][3fff7e78][ExtensionHostConnection] New connection established.
+2024-09-30 17:03:35.565 [info] [127.0.0.1][3fff7e78][ExtensionHostConnection] <16024> Launched Extension Host Process.
+2024-09-30 17:07:44.449 [info] [127.0.0.1][0f32a531][ManagementConnection] The client has reconnected.
+2024-09-30 17:07:44.617 [info] [127.0.0.1][3fff7e78][ExtensionHostConnection] The client has reconnected.
+2024-09-30 17:07:59.817 [info] [127.0.0.1][0f32a531][ManagementConnection] The client has reconnected.
+2024-09-30 17:07:59.961 [info] [127.0.0.1][3fff7e78][ExtensionHostConnection] The client has reconnected.
+2024-09-30 17:51:25.328 [info] [127.0.0.1][3fff7e78][ExtensionHostConnection] The client has reconnected.
+2024-09-30 17:51:28.522 [info] [127.0.0.1][0f32a531][ManagementConnection] The client has reconnected.

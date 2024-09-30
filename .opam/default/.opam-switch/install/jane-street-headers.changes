@@ -1,0 +1,24 @@
+opam-version: "2.0"
+added: [
+  "doc/jane-street-headers" {"D"}
+  "doc/jane-street-headers/LICENSE.md" {"F:S1117T1727733235.89"}
+  "doc/jane-street-headers/README.org" {"F:S121T1727733235.89"}
+  "lib/jane-street-headers" {"D"}
+  "lib/jane-street-headers/META" {"F:S222T1727733235.89"}
+  "lib/jane-street-headers/core_params.h" {"F:S154T1727733235.89"}
+  "lib/jane-street-headers/dune-package" {"F:S1100T1727733235.89"}
+  "lib/jane-street-headers/jane_common.h" {"F:S945T1727733235.89"}
+  "lib/jane-street-headers/jane_street_headers.a" {"F:S2242T1727733235.89"}
+  "lib/jane-street-headers/jane_street_headers.cma" {"F:S1935T1727733235.89"}
+  "lib/jane-street-headers/jane_street_headers.cmi" {"F:S139T1727733235.89"}
+  "lib/jane-street-headers/jane_street_headers.cmt" {"F:S2139T1727733235.89"}
+  "lib/jane-street-headers/jane_street_headers.cmx" {"F:S110T1727733235.89"}
+  "lib/jane-street-headers/jane_street_headers.cmxa" {"F:S116T1727733235.89"}
+  "lib/jane-street-headers/jane_street_headers.cmxs"
+    {"F:S16152T1727733235.89"}
+  "lib/jane-street-headers/jane_street_headers.ml" {"F:S24T1727733235.89"}
+  "lib/jane-street-headers/ocaml_utils.h" {"F:S2316T1727733235.89"}
+  "lib/jane-street-headers/ocaml_utils_macros.h" {"F:S1213T1727733235.89"}
+  "lib/jane-street-headers/opam" {"F:S649T1727733235.89"}
+  "lib/jane-street-headers/unix_utils.h" {"F:S1195T1727733235.89"}
+]

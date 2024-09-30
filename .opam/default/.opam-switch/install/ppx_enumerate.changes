@@ -1,0 +1,37 @@
+opam-version: "2.0"
+added: [
+  "doc/ppx_enumerate" {"D"}
+  "doc/ppx_enumerate/CHANGES.md" {"F:S170T1727733260.93"}
+  "doc/ppx_enumerate/LICENSE.md" {"F:S1117T1727733260.93"}
+  "doc/ppx_enumerate/README.md" {"F:S3024T1727733260.93"}
+  "lib/ppx_enumerate" {"D"}
+  "lib/ppx_enumerate/META" {"F:S1020T1727733260.93"}
+  "lib/ppx_enumerate/dune-package" {"F:S1796T1727733260.93"}
+  "lib/ppx_enumerate/opam" {"F:S705T1727733260.93"}
+  "lib/ppx_enumerate/ppx_enumerate.a" {"F:S88594T1727733260.93"}
+  "lib/ppx_enumerate/ppx_enumerate.cma" {"F:S107962T1727733260.93"}
+  "lib/ppx_enumerate/ppx_enumerate.cmi" {"F:S3673T1727733260.93"}
+  "lib/ppx_enumerate/ppx_enumerate.cmt" {"F:S212806T1727733260.93"}
+  "lib/ppx_enumerate/ppx_enumerate.cmti" {"F:S10869T1727733260.93"}
+  "lib/ppx_enumerate/ppx_enumerate.cmx" {"F:S10024T1727733260.93"}
+  "lib/ppx_enumerate/ppx_enumerate.cmxa" {"F:S7386T1727733260.93"}
+  "lib/ppx_enumerate/ppx_enumerate.cmxs" {"F:S106808T1727733260.93"}
+  "lib/ppx_enumerate/ppx_enumerate.ml" {"F:S10713T1727733260.93"}
+  "lib/ppx_enumerate/ppx_enumerate.mli" {"F:S40T1727733260.93"}
+  "lib/ppx_enumerate/runtime-lib/ppx_enumerate_lib.a"
+    {"F:S3756T1727733260.93"}
+  "lib/ppx_enumerate/runtime-lib/ppx_enumerate_lib.cma"
+    {"F:S3491T1727733260.93"}
+  "lib/ppx_enumerate/runtime-lib/ppx_enumerate_lib.cmi"
+    {"F:S1364T1727733260.93"}
+  "lib/ppx_enumerate/runtime-lib/ppx_enumerate_lib.cmt"
+    {"F:S7898T1727733260.93"}
+  "lib/ppx_enumerate/runtime-lib/ppx_enumerate_lib.cmx"
+    {"F:S211T1727733260.93"}
+  "lib/ppx_enumerate/runtime-lib/ppx_enumerate_lib.cmxa"
+    {"F:S186T1727733260.93"}
+  "lib/ppx_enumerate/runtime-lib/ppx_enumerate_lib.cmxs"
+    {"F:S17000T1727733260.93"}
+  "lib/ppx_enumerate/runtime-lib/ppx_enumerate_lib.ml"
+    {"F:S417T1727733260.93"}
+]
